@@ -58,4 +58,4 @@ document.addEventListener("DOMContentLoaded", () => {
         header.textContent = `${label} (${count})`;
       }
     }
-});
+    

@@ -57,5 +57,3 @@ document.addEventListener("DOMContentLoaded", () => {
         const label = status.toUpperCase();
         header.textContent = `${label} (${count})`;
       }
-    }
-});
